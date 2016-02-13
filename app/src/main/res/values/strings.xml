@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vaishnavism eCalendar</string>
+    <string name="title_activity_main">Vaishnavism eCalendar</string>
+    <string name="today">Today</string>
+    <string name="week">Week</string>
+    <string name="agenda">Agenda</string>
+    <string name="pick">Pick</string>
+</resources>
